@@ -26,7 +26,7 @@
 
 🗄️ Database : PostgreSQL, SQLite
 
-🔧 Tools : Git, GitHub, VS Code, Postman,Versel,Render
+🔧 Tools : Git, GitHub, VS Code, Postman
 
 🌱 Currently Learning
 
@@ -53,7 +53,7 @@ boopathibio143@gmail.com
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,python,django,postgres,sqlite,nodejs,git,github,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,python,django,postgres,sqlite,nodejs,git,github,versel,render,vscode,postman&perline=8" />
 
 </p>
 
