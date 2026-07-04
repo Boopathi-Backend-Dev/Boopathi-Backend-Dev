@@ -26,7 +26,7 @@
 
 🗄️ Database : PostgreSQL, SQLite
 
-🔧 Tools : Git, GitHub, VS Code, Postman
+🔧 Tools : Git, GitHub, VS Code, Postman,Versel,Render
 
 🌱 Currently Learning
 
