@@ -290,17 +290,6 @@ boopathibio143@gmail.com
 </table>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Boopathi-Backend-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopathi-Backend-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -387,25 +376,6 @@ boopathibio143@gmail.com
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Boopathi-Backend-Dev&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Boopathi-Backend-Dev/Boopathi-Backend-Dev/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-> **Note:** This works after enabling the GitHub Action that generates the snake animation.
-
----
 
 # 📅 Contribution Calendar
 
