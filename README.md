@@ -52,9 +52,7 @@ boopathibio143@gmail.com
 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,python,django,postgres,sqlite,nodejs,git,github,postman&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,python,django,postgres,sqlite,nodejs,git,github,postman,docker,figma&perline=8" />
 </p>
 
 
